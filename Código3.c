@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 int main (){
     int *arreglo, *arreglo2, num, cont;
     printf("¿Cuántos elementos tiene el conjunto?\n");
