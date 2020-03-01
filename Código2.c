@@ -15,5 +15,5 @@ int main (){
     printf("Se libera el espacio reservado.\n");
     free(arreglo);
     }
-return 0;
+ return 0;
 }
